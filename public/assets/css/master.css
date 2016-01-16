@@ -1,0 +1,94 @@
+html{
+	height: 100%;
+}
+body{
+	background-color: #c2c2a3;
+	min-height: 100%;
+}
+#content{
+	background-color: #ffffff;
+	border-radius: 5px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	margin-bottom: 20px;
+	
+}
+
+footer{
+	
+	padding: 20px 0;
+	margin-bottom: 0 !important;
+	clear: both;
+}
+footer .container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#myMap{
+	padding: 2px; 
+	height: 300px;
+}
+.footer-footer{
+	color: #fff;
+	padding-top: 5px;
+}
+td{
+	vertical-align: middle !important;
+}
+@media (min-width: 768px){
+	.navbar {
+	    border-radius: 0 !important; 
+	}
+}
+.modal-open .modal, a:focus{
+    outline:none!important
+}
+.sidebar{
+    height: 100%;
+}
+.wrap{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+@media (min-width: 1200px){
+	.main{
+		width: 74% !important;
+		float: right;
+	}
+}
+.cube{
+	padding: 5px;
+}
+.school_cube{
+	height: 50px;
+	background-color: #888;
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+.school_cube > a{
+	color: #ffffff !important;
+}
+
+h1,h2,h2,h4{
+	margin-top: 0px;
+}
+.social_icon{
+	margin-left: 5px;
+}
+.program_cube{
+	height: 50px;
+	background-color: #00b359;
+	margin-bottom: 5px;
+	font-size: 13px;
+	color: #ffffff;
+}
+.program_cube > a{
+	color: #ffffff !important;
+}
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+
+
